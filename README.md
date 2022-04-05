@@ -1,13 +1,13 @@
 # 啟動說明 ****How To Use****
 
-1. 部署好的網址
+1. [部署好的網址](https://dcard-2022-web-frontend-intern-homework-delta.vercel.app/)
 2. local 端
 ```js
 // Clone repo 
-git clone git@github.com:jesChung/Dcard-2022-Web-Frontend-Intern-Homework.git
+git clone https://github.com/jesChung/Dcard-2022-Web-Frontend-Intern-Homework.git
 
 // Change directories to this repository
-cd
+cd Dcard-2022-Web-Frontend-Intern-Homework
 
 // Run React app
 npm install
