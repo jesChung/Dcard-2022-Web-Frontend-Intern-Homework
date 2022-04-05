@@ -1,5 +1,6 @@
 # 啟動說明 ****How To Use****
 
+code (
 1. 部署好的網址
 2. local 端
 
@@ -12,7 +13,7 @@ cd
 // Run React app
 npm install
 npm start
-
+)
 # ****程式架構設計 Code Skeleton****
 
 - index.js : program Entry
