@@ -1,9 +1,8 @@
 # 啟動說明 ****How To Use****
 
-```js
 1. 部署好的網址
 2. local 端
-
+```js
 // Clone repo 
 git clone 
 
