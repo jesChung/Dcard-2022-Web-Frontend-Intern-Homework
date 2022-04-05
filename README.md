@@ -18,7 +18,7 @@ npm start
 - index.js : program Entry
 - App.js : for direct route
 - Home.jsx : a search bar for user to input GitHub username
-- service/api.js : store the link of Github API
+- [api.js](https://github.com/jesChung/Dcard-2022-Web-Frontend-Intern-Homework/blob/main/src/service/api.js) : store the link of Github API
 - RepoList.jsx : <Route = '/users/:username/repos'>
     
     display GitHub user’s name ＆ his/her all repositories
