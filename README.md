@@ -4,7 +4,7 @@
 2. local 端
 ```js
 // Clone repo 
-git clone 
+git clone git@github.com:jesChung/Dcard-2022-Web-Frontend-Intern-Homework.git
 
 // Change directories to this repository
 cd
