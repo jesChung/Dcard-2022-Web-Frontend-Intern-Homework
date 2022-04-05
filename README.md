@@ -25,7 +25,7 @@ npm start
     
 - [RepoDetail.jsx](https://github.com/jesChung/Dcard-2022-Web-Frontend-Intern-Homework/blob/main/src/RepoDetail.jsx) : <Route = '/users/:username/repos/:repoName'>
     
-    display repository details by clicking Github icon can  navigate to the repo on Github
+    display repository details, by clicking Github icon navigate to the repo on Github
     
 ## **功能與實作 Features and implementation**
 
