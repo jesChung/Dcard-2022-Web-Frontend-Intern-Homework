@@ -32,5 +32,5 @@ npm start
 - 使用 react-router-dom 做routing
 - 使用 useEffect, useState等react hook 處理生命週期
 - 使用 axios 串接Github REST API
-- 使用 react-infinite-scroll-component 來實作滾動載入
+- 使用 react-infinite-scroll-component 實作滾動載入
 - 使用 antd + Tailwinds.css 美化介面
