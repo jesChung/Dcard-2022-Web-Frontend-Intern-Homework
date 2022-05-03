@@ -15,15 +15,15 @@ npm start
 ```
 # ****程式架構設計 Code Skeleton****
 
-- [index.js] : program Entry
-- [App.js] : for direct route
-- [Home.jsx] : a search bar for user to input GitHub username
-- [api.js] : store the link of Github API
-- [RepoList.jsx] : <Route = '/users/:username/repos'>
+- index.js : program Entry
+- App.js : for direct route
+- Home.jsx : a search bar for user to input GitHub username
+- api.js : store the link of Github API
+- RepoList.jsx : <Route = '/users/:username/repos'>
     
     display GitHub user’s name ＆ his/her all repositories
     
-- [RepoDetail.jsx] : <Route = '/users/:username/repos/:repoName'>
+- RepoDetail.jsx : <Route = '/users/:username/repos/:repoName'>
     
     display repository details, by clicking Github icon navigate to the repo on Github
     
