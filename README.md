@@ -1,6 +1,6 @@
 # 啟動說明 ****How To Use****
 
-1. [部署好的網址](https://dcard-2022-web-frontend-intern-homework-delta.vercel.app/)
+1. [部署好的網址](https://git-repo-delta.vercel.app/)
 2. local 端
 ```js
 // Clone repo 
